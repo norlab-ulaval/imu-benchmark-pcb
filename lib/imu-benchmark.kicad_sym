@@ -78,7 +78,7 @@
     (property "Value" "2021" (at 7.62 -7.62 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "imu-benchmark:Adafruit-1604" (at 0 -18.923 0)
+    (property "Footprint" "imu-benchmark:Adafruit-2021" (at 0 -18.923 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.adafruit.com/product/2021" (at 0 -21.59 0)
@@ -261,7 +261,7 @@
     (property "ki_keywords" "sparkfun imu 9-dof" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_description" "\nPrevious Versions\nSparkFun 9DoF IMU Breakout - ICM-20948" (at 0 0 0)
+    (property "ki_description" "SparkFun 9DoF IMU Breakout - ICM-20948" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "ICM-20948_0_0"
