@@ -504,7 +504,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "imu-benchmark.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

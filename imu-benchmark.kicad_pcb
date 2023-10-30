@@ -59,6 +59,7 @@
       (dielectric_constraints no)
     )
     (pad_to_mask_clearance 0)
+    (aux_axis_origin 150 90)
     (pcbplotparams
       (layerselection 0x00010fc_ffffffff)
       (plot_on_all_layers_selection 0x0000000_00000000)
@@ -3092,7 +3093,7 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 946c9601-5da6-45a0-9317-086b4c952ad2))
   (gr_arc (start 150 55) (mid 151.464466 51.464466) (end 155 50)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp a7cef303-7617-4e1e-8562-f8fae956b4c9))
-  (gr_arc (start 155 90) (mid 151.464466 88.535534) (end 150 85)
+  (gr_arc (start 155 90) (mid 151.464467 88.535534) (end 150 85)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp c7875cb5-3048-4251-a327-726de0b20023))
   (gr_text "${TITLE}\n${ISSUE_DATE}" (at 195.75 54.75) (layer "F.SilkS") (tstamp b1cd9f20-fa14-4627-ac42-93de11bc63a9)
     (effects (font (size 2 2) (thickness 0.3)) (justify left))
